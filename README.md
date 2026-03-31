@@ -1,0 +1,1 @@
+# vectorization-and-indexing-of-images
